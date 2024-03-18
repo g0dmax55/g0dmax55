@@ -2,7 +2,7 @@
 <h2 align="center">Cyber Security Enthusiast</h2>
 <h2 align="center">Welcome to my GitHub profile !</h2> 
 </p>                                                                                                              
-<p align="center">   <strong><a href="[https://g0dmax55.github.io/](http://ec2-13-201-209-65.ap-south-1.compute.amazonaws.com:8080/)">Official Website</a></strong> | <strong><a href="https://tryhackme.com/p/g0dmax55">Tryhackme</a></strong>
+<p align="center">   <strong><a href="http://ec2-13-201-209-65.ap-south-1.compute.amazonaws.com:8080/">Official Website</a></strong> | <strong><a href="https://tryhackme.com/p/g0dmax55">Tryhackme</a></strong>
 </br>
 </br>
 <a href="https://tryhackme.com/p/g0dmax55">
