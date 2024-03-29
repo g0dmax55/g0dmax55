@@ -15,7 +15,6 @@
 </br>
 </br>
 
-<a <iframe src="https://discord.com/widget?id=1206236557942722620&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> </a>
 
 - 👨🏽‍💻 I’m a Security Enthusiast / Pentester
  
