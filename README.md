@@ -1,4 +1,4 @@
-Hacker | Security Researcher 
+**Hacker | Security Researcher**
 
 
 <br>
