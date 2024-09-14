@@ -1,34 +1,25 @@
-<h2 align="center">Hi, I'm <a href="https://www.instagram.com/g0dmax55">g0dmax55</a></h2>
-<h2 align="center">Cyber Security Enthusiast</h2>
-<h2 align="center">Welcome to my GitHub profile !</h2> 
-</p>                                                                                                              
-<p align="center">   <strong><a href="http://ec2-13-201-209-65.ap-south-1.compute.amazonaws.com:8080/">Official Website</a></strong> | <strong><a href="https://tryhackme.com/p/g0dmax55">Tryhackme</a></strong>
-</br>
-</br>
+Hacker | Security Researcher 
+
+
+<br>
 <a href="https://tryhackme.com/p/g0dmax55">
 <img src="https://tryhackme-badges.s3.amazonaws.com/g0dmax55.png" </img
 </a> 
-<br><br>
+<br>
 <a href="https://wigle.net">
 <img src="https://wigle.net/bi/b6V_V5nKL5yQs0s2xMO7sQ.png"> </img
 </a> 
-</br>
-</br>
+<br>
+<br>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://github.com/g0dmax55/threadx-discord-invitation-link.git) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g0dmax55) 
 
 
-- 👨🏽‍💻 I’m a Security Enthusiast / Pentester
- 
-- 🌱 I’m currently learning **Python**
- 
-- 👨‍💻 All of my projects are available
- 
-- 📝 I regularly write articles
- 
-- 💬 Ask me about **CyberSecurity**
- 
-- 📫 How to reach me **g0dmax55@protonmail.com**
- 
-- ⚡ Fun fact **Some Times I Am A GreyHat Hacker**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![](https://visitcount.itsvg.in/api?id=g0dmax55&icon=1&color=8)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=g0dmax55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=g0dmax55&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=g0dmax55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=g0dmax55&icon=0&color=0)](https://visitcount.itsvg.in)
