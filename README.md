@@ -1,5 +1,4 @@
 # **Hacker | Security Researcher**
----
 
 <a href="https://tryhackme.com/p/g0dmax55">
 <img src="https://tryhackme-badges.s3.amazonaws.com/g0dmax55.png" </img
