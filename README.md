@@ -3,8 +3,7 @@
 <div align="center">
   
   # **`It's me 0fe45f00d55e343e8aa6745120f10a7`**
-  # **`Security Researcher`**
-  # **`Hacker`**
+  # **`Security Researcher | Hacker`**
   
   <a href="https://tryhackme.com/p/g0dmax55">
     <img src="https://tryhackme-badges.s3.amazonaws.com/g0dmax55.png" alt="TryHackMe Badge" />
